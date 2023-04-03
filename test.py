@@ -17,15 +17,11 @@ driver.get("https://dir.indiamart.com/impcat/tmt-bars.html")
 # Wait for the page to load
 driver.implicitly_wait(10)
 
-# Scroll down using Page Down key
 
-
-# Wait for the page to load after scrolling
-driver.implicitly_wait(10)
 body = driver.find_element(By.TAG_NAME, "body")
 for i in range(10):
     body.send_keys(Keys.PAGE_DOWN)
-    time.sleep(20)
+    time.sleep(2)
 
 # Get the HTML of the whole page
 html = driver.page_source
