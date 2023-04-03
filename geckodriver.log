@@ -1,0 +1,430 @@
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gimp/2.0/help /usr/share/gimp/2.0/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot open directory "/var/lib": permission denied
+1680269866718	geckodriver	INFO	Listening on 127.0.0.1:35871
+1680269867164	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "51751" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRaYGd2"
+Gtk-Message: 19:07:47.192: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680269868017	Marionette	INFO	Marionette enabled
+1680269868021	Marionette	INFO	Listening on port 35303
+Read port: 35303
+WebDriver BiDi listening on ws://127.0.0.1:51751
+1680269868212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRaYGd2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51751/devtools/browser/1eab20b2-9a33-46c7-ab90-d82e31780c2d
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TbkRrD5BXGyp-AXWn4EJ5yVok9cUGO3dMlQ2-4_WT-o.js line 2 > eval line 5424 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TbkRrD5BXGyp-AXWn4EJ5yVok9cUGO3dMlQ2-4_WT-o.js line 2 > eval line 7398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TbkRrD5BXGyp-AXWn4EJ5yVok9cUGO3dMlQ2-4_WT-o.js line 2 > eval line 1588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/TbkRrD5BXGyp-AXWn4EJ5yVok9cUGO3dMlQ2-4_WT-o.js line 2 > eval line 1697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+JavaScript warning: https://www.google.com/js/th/vfL9pRLeM2I8igeDEoZ-6BrdQvIN_PEUsYwY2am7_pk.js line 2 > eval line 790 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1680285446298	geckodriver	INFO	Listening on 127.0.0.1:57243
+1680285446818	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTEU5AV"
+Gtk-Message: 23:27:26.845: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680285447363	Marionette	INFO	Marionette enabled
+1680285447365	Marionette	INFO	Listening on port 41491
+Read port: 41491
+WebDriver BiDi listening on ws://127.0.0.1:38211
+1680285447482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTEU5AV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38211/devtools/browser/905c2948-f614-45b0-80f9-de201bfd25d0
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 2459 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1136 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 3950 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5304 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 403 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1680285528322	geckodriver	INFO	Listening on 127.0.0.1:45259
+1680285528735	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileePuwtz"
+Gtk-Message: 23:28:48.766: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680285529272	Marionette	INFO	Marionette enabled
+1680285529274	Marionette	INFO	Listening on port 42701
+Read port: 42701
+WebDriver BiDi listening on ws://127.0.0.1:39905
+1680285529400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileePuwtz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39905/devtools/browser/8b37705a-7e52-4337-9364-a058d2fff7bc
+1680285533168	Marionette	INFO	Stopped listening on port 42701
+1680285638513	geckodriver	INFO	Listening on 127.0.0.1:59959
+1680285638922	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet4cUQB"
+Gtk-Message: 23:30:38.946: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680285639446	Marionette	INFO	Marionette enabled
+1680285639449	Marionette	INFO	Listening on port 37393
+Read port: 37393
+WebDriver BiDi listening on ws://127.0.0.1:54879
+1680285639582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet4cUQB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54879/devtools/browser/1cedc95c-0237-439c-b592-6adfaba190cf
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 4231 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 427 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1589 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5529 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 742 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1687 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1680285760938	geckodriver	INFO	Listening on 127.0.0.1:51747
+1680285761341	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55837" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeEvGxT"
+Gtk-Message: 23:32:41.367: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680285761925	Marionette	INFO	Marionette enabled
+1680285761927	Marionette	INFO	Listening on port 41159
+Read port: 41159
+WebDriver BiDi listening on ws://127.0.0.1:55837
+1680285762064	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeEvGxT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55837/devtools/browser/094a9d74-ae1a-40e3-99c8-6c0dd9c548db
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 4280 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1208 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 182 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 7639 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 3071 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680285775905	Marionette	INFO	Stopped listening on port 41159
+JavaScript warning: https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js line 2 > eval line 3205 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1680285848749	Marionette	INFO	Stopped listening on port 41491
+JavaScript warning: https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js line 2 > eval line 7486 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680285852049	Marionette	INFO	Stopped listening on port 37393
+JavaScript warning: https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js line 2 > eval line 86 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680285854698	Marionette	INFO	Stopped listening on port 35303
+1680285967044	geckodriver	INFO	Listening on 127.0.0.1:33787
+1680285967438	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "53177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3kn0p9"
+Gtk-Message: 23:36:07.460: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680285967964	Marionette	INFO	Marionette enabled
+1680285967967	Marionette	INFO	Listening on port 33709
+Read port: 33709
+WebDriver BiDi listening on ws://127.0.0.1:53177
+1680285968090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3kn0p9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53177/devtools/browser/98cb7cd2-721a-4ee0-8f3f-57d1c10d7dbb
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5357 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 3092 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6743 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 761 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 882 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js line 2 > eval line 4038 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680286154848	geckodriver	INFO	Listening on 127.0.0.1:35017
+1680286155276	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefE9hbB"
+Gtk-Message: 23:39:15.298: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680286155792	Marionette	INFO	Marionette enabled
+1680286155795	Marionette	INFO	Listening on port 37185
+Read port: 37185
+WebDriver BiDi listening on ws://127.0.0.1:37663
+1680286155937	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefE9hbB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37663/devtools/browser/92c6b1bc-aa95-49cd-9398-78c9dc97d805
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5613 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1326 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 577 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5752 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 153 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1680286180938	geckodriver	INFO	Listening on 127.0.0.1:56303
+1680286181371	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGLmSN2"
+Gtk-Message: 23:39:41.392: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680286181895	Marionette	INFO	Marionette enabled
+1680286181898	Marionette	INFO	Listening on port 33285
+Read port: 33285
+WebDriver BiDi listening on ws://127.0.0.1:54659
+1680286182047	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGLmSN2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54659/devtools/browser/0fc7b92c-7d4e-4a6e-9949-a245d73d681c
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 2987 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5972 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 89 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 263 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1336 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1680286263185	geckodriver	INFO	Listening on 127.0.0.1:59737
+1680286263613	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGKAsOT"
+Gtk-Message: 23:41:03.635: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680286264140	Marionette	INFO	Marionette enabled
+1680286264143	Marionette	INFO	Listening on port 43709
+Read port: 43709
+WebDriver BiDi listening on ws://127.0.0.1:55935
+1680286264273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGKAsOT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55935/devtools/browser/085a6e5b-f737-4c7a-97a3-698051cb2c5b
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1525 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6075 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 2615 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6422 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5092 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1680286321305	geckodriver	INFO	Listening on 127.0.0.1:34669
+1680286321734	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "39505" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelZg3vR"
+Gtk-Message: 23:42:01.759: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680286322333	Marionette	INFO	Marionette enabled
+1680286322336	Marionette	INFO	Listening on port 44687
+Read port: 44687
+WebDriver BiDi listening on ws://127.0.0.1:39505
+1680286322484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelZg3vR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39505/devtools/browser/522df20d-6301-4eb8-b7a9-dfe6ff645422
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1536 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1329 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6414 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1032 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 4640 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 4157 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1774 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6897 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 5088 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js line 2 > eval line 658 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.jsm", 603))
+1680351405896	geckodriver	INFO	Listening on 127.0.0.1:36673
+1680351406333	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "50749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSePNvL"
+Gtk-Message: 17:46:46.360: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680351406958	Marionette	INFO	Marionette enabled
+1680351406962	Marionette	INFO	Listening on port 46329
+Read port: 46329
+WebDriver BiDi listening on ws://127.0.0.1:50749
+1680351407100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSePNvL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50749/devtools/browser/05cbb70a-ea92-4507-970b-335eed0199e8
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 6460 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 1426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 2971 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/wMoe6OciHLqnbxL28zp4y_OVtpvKQBw-ZRrleUvee-M.js line 2 > eval line 2292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://www.google.com/js/th/09QSY-CUWkp9sd11ZUAJFeGr74Rau5wFI3HTYCOPMRs.js line 2 > eval line 6750 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680357245451	Marionette	INFO	Stopped listening on port 46329
+1680500412605	geckodriver	INFO	Listening on 127.0.0.1:42659
+1680500413029	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "44733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilec9YuTg"
+Gtk-Message: 11:10:13.054: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680500413619	Marionette	INFO	Marionette enabled
+1680500413623	Marionette	INFO	Listening on port 45907
+Read port: 45907
+WebDriver BiDi listening on ws://127.0.0.1:44733
+1680500413746	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilec9YuTg/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44733/devtools/browser/ae7a9b35-932b-4d0c-9180-eb06fa56c2b0
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 52 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 5753 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 7586 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1680500838599	geckodriver	INFO	Listening on 127.0.0.1:52585
+1680500839033	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu7dwHy"
+Gtk-Message: 11:17:19.054: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680500839556	Marionette	INFO	Marionette enabled
+1680500839559	Marionette	INFO	Listening on port 37237
+Read port: 37237
+WebDriver BiDi listening on ws://127.0.0.1:59711
+1680500839678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileu7dwHy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59711/devtools/browser/66e4f992-9ff7-4830-83a4-b50f4debf156
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 7758 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 3018 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 3224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680500886048	Marionette	INFO	Stopped listening on port 45907
+JavaScript warning: https://www.google.com/js/th/23K_wv65UPCiABIo6r4TLz_7ITKDRTsdN0481kHWjEo.js line 2 > eval line 4417 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680500892012	geckodriver	INFO	Listening on 127.0.0.1:47353
+1680500892449	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLFP3sb"
+Gtk-Message: 11:18:12.472: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+amdgpu: os_same_file_description couldn't determine if two DRM fds reference the same file description.
+If they do, bad things may happen!
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1680500892965	Marionette	INFO	Marionette enabled
+1680500892967	Marionette	INFO	Listening on port 38543
+Read port: 38543
+WebDriver BiDi listening on ws://127.0.0.1:59439
+1680500893092	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLFP3sb/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59439/devtools/browser/8f415d9d-53c3-4ca8-b815-a5daedb5cb7f
+JavaScript warning: https://utils.imimg.com/imsrchui/js/post.min-v126.js, line 1: unreachable code after return statement
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 2936 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 4156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U7EM6LXWj4l78jf_OLdMz79S9xCye0H6LBL4Kfa2sjI.js line 2 > eval line 7578 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.google.com/js/th/23K_wv65UPCiABIo6r4TLz_7ITKDRTsdN0481kHWjEo.js line 2 > eval line 147 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1680500968334	Marionette	INFO	Stopped listening on port 38543
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1680500978174	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1680501539484	Marionette	INFO	Stopped listening on port 37237
+JavaScript warning: https://www.google.com/js/th/23K_wv65UPCiABIo6r4TLz_7ITKDRTsdN0481kHWjEo.js line 2 > eval line 1341 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
